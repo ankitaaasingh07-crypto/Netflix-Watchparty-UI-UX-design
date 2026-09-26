@@ -2,6 +2,12 @@
 
 A UI/UX case study exploring a social viewing experience for Netflix, designed for IIT Indore's Design Odyssey.
 
+## 🏆 Achievement
+
+**2nd Position — Design Odyssey, IIT Indore**
+
+Secured **2nd position** in Design Odyssey, an event with a **₹20,000 prize pool**.
+
 ## Overview
 
 This project focuses on designing a seamless watch-party experience that allows users to enjoy Netflix content together while being physically apart. The design explores how synchronized viewing, communication, and social interaction can be brought into a familiar streaming interface.
